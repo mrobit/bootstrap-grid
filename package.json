@@ -1,4 +1,5 @@
 {
+  "name": "bootstrap-grid-sass",
   "description" : "Contains the bootstrap grid and the minimum requirements for it to work.",
   "repository" : "git@github.com:mrobit/bootstrap-grid.git",
   "devDependencies": {
