@@ -7,10 +7,7 @@ module.exports = function(grunt) {
     sass: {
       options: {
         // Get the bootstrap path for compiling.
-        noCache: true,
-        loadPath: [
-          'bower_components/bootstrap-sass-official/vendor/assets/stylesheets'
-        ]
+        noCache: true
       },
       dist: {
         options: {
